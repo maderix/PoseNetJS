@@ -1,0 +1,9 @@
+{
+  "name": "pose-net-js",
+  "version": "0.0.0",
+  "description": "PoseNetJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
